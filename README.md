@@ -92,9 +92,6 @@ The Dementia Prediction Web Application is designed to assist users in the early
 
 - [Harshvardhan Faldu](https://github.com/Harsh20042002) - Initial work
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
